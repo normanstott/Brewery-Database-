@@ -20,7 +20,7 @@ Tables are built and populated through parameterized stored procedures rather th
 
 **Analytical queries**
 
-10 queries covering joins, aggregation, filtering, and one window function — see queries/analysis_queries.sql for the full set:
+10 queries covering joins, aggregation, filtering, and one window function.
 
 1. Total revenue by beer style
 2. Top customers by total order value
